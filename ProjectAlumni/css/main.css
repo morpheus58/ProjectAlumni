@@ -1,10 +1,23 @@
-.jumbotron {
-}
-
 .profileInfo{
     margin-left: 55%;
 }
 
 .projects{
     margin-left: 35%;
+    background-color: black;
+    border-width: thin;
+}
+section h2 {
+  margin-left: 5%;
+}
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("../img/UWQuad2.jpg");
+    color: white;
+}
+
+.projectImage {
+    height: 150px;
+    width: 100px;
 }
